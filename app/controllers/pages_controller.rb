@@ -1,6 +1,6 @@
 class PagesController < ApplicationController
 
-  def questions
-    
+  def home
+
   end
 end
